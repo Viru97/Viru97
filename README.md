@@ -10,7 +10,7 @@ I'm currently looking for **entry-level roles** in robotics and autonomous syste
 
 
 ### 🔭 Current Work
-- **Master's Thesis** at [Fraunhofer IPA](https://www.ipa.fraunhofer.de/): Developing autonomous assembly systems for snap couplings using deep reinforcement learning in NVIDIA Isaac Lab with UR10e manipulator and 12-DOF dexterous Inspire hand
+- **Master's Thesis** at [Fraunhofer IPA](https://www.ipa.fraunhofer.de/): Developing digital twin-driven autonomous assembly systems for snap couplings using deep reinforcement learning in NVIDIA Isaac Lab with UR5e manipulator and 6-DOF,12-joints dexterous Inspire hand
 - Building universal grasping frameworks with sim-to-real transfer capabilities
 
 ### 🎓 Education
