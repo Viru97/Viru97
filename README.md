@@ -10,20 +10,20 @@ I'm currently looking for **entry-level roles** in robotics and autonomous syste
 
 
 ### 🔭 Current Work
-- **Master's Thesis** at [Fraunhofer IPA](https://www.ipa.fraunhofer.de/): Developing autonomous assembly systems for snap couplings using deep reinforcement learning in NVIDIA Isaac Lab with UR10e manipulator and 12-DOF dexterous Inspire hand[file:2]
-- Building universal grasping frameworks with sim-to-real transfer capabilities[file:2]
+- **Master's Thesis** at [Fraunhofer IPA](https://www.ipa.fraunhofer.de/): Developing autonomous assembly systems for snap couplings using deep reinforcement learning in NVIDIA Isaac Lab with UR10e manipulator and 12-DOF dexterous Inspire hand
+- Building universal grasping frameworks with sim-to-real transfer capabilities
 
 ### 🎓 Education
-- **MSc Electrical Engineering - Smart Systems** | University of Stuttgart (2022-Present)[file:2]
-- **B.Tech Electrical Engineering - Power Electronics** | Pandit Deendayal Energy University (2016-2020)[file:2]
+- **MSc Electrical Engineering - Smart Systems** | University of Stuttgart (2022-Present)
+- **B.Tech Electrical Engineering - Power Electronics** | Pandit Deendayal Energy University (2016-2020)
 
 ### 💼 Experience
-- **Research Assistant** @ Fraunhofer IPA (Sep 2023 - May 2025)[file:1]
+- **Research Assistant** @ Fraunhofer IPA (Sep 2023 - May 2025)
   - Implemented NVIDIA Isaac Lab environments for robotic manipulation data generation
   - Designed novel 3-finger adaptive gripper with computer vision integration
   - Developed ROS/Gazebo simulation frameworks for robotic risk assessment
-- **Commissioning Engineer** @ JK Cement Ltd (Dec 2020 - Dec 2021)[file:1]
-- **Team Lead - Electrical Design** @ Team Kaizen (Jun 2018 - May 2019)[file:1]
+- **Commissioning Engineer** @ JK Cement Ltd (Dec 2020 - Dec 2021)
+- **Team Lead - Electrical Design** @ Team Kaizen (Jun 2018 - May 2019)
 
 ### 🛠️ Technical Skills
 
@@ -43,26 +43,26 @@ I'm currently looking for **entry-level roles** in robotics and autonomous syste
 - Hardware Integration & Testing
 
 ### 📝 Publications
-- **"A Time-series Data Generation Tool for Risk Assessment of Robotic Applications"** - ESREL/SRA-E 2025 Conference[file:2]
-- **"Operational Amplifier Based dc-ac Converter for Domestic Application"** - ICOEI-2020 Conference[file:2]
+- **"A Time-series Data Generation Tool for Risk Assessment of Robotic Applications"** - ESREL/SRA-E 2025 Conference
+- **"Operational Amplifier Based dc-ac Converter for Domestic Application"** - ICOEI-2020 Conference
 
 ### 🌟 Featured Projects
 
 #### Configurable Time-Series Data Generator (ROS/Gazebo)
-Comprehensive simulation framework for Franka Panda manipulator with fault injection mechanisms and PyQt5-based control interface for robotic risk assessment[file:1]
+Comprehensive simulation framework for Franka Panda manipulator with fault injection mechanisms and PyQt5-based control interface for robotic risk assessment
 
 #### Adaptive 3-Finger Gripper Design
-Novel gripper with variable triangle configurations, integrated computer vision pipeline, and physics-based simulation validation[file:2]
+Novel gripper with variable triangle configurations, integrated computer vision pipeline, and physics-based simulation validation
 
 #### Material Behavior Prediction
-Data generation pipeline using UR10 manipulator for graph-based ML models (AdaptiGraph framework)[file:1]
+Data generation pipeline using UR10 manipulator for graph-based ML models (AdaptiGraph framework)
 
 ### 📫 Get in Touch
-- LinkedIn: [linkedin.com/in/apurv-patel-891475167](https://www.linkedin.com/in/apurv-patel-891475167)[file:1]
-- Email: engr.apurv@gmail.com[file:2]
-- Location: Stuttgart, Germany[file:2]
+- LinkedIn: [linkedin.com/in/apurv-patel-891475167](https://www.linkedin.com/in/apurv-patel-891475167)
+- Email: engr.apurv@gmail.com
+- Location: Stuttgart, Germany
 
 ### 🎯 Interests
-Autonomous manipulation • Deep reinforcement learning • Sim-to-real transfer • Robot control systems • Real-world robotic applications[file:2]
+Autonomous manipulation • Deep reinforcement learning • Sim-to-real transfer • Robot control systems • Real-world robotic applications
 
 ---
