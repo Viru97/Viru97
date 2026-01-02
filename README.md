@@ -14,9 +14,9 @@ I'm currently looking for **entry-level roles** in robotics and autonomous syste
 - Building universal grasping frameworks with sim-to-real transfer capabilities
 
 <div align="center">
-  <img src="assets/cube.gif" alt="Grasping Demo" width="400"/>
-  <img src="assets/cylinder.gif" alt="Assembly Demo" width="400"/>
-  <p><em>Left: Dexterous grasping | Right: Snap coupling assembly</em></p>
+  <img src="assets/cube.gif" alt="Grasping Demo" width="600"/>
+  <img src="assets/cylinder.gif" alt="Assembly Demo" width="600"/>
+  <p><em>Left: Cube | Right: Cylinder</em></p>
 </div>
 
 ### 🎓 Education
