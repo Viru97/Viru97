@@ -19,6 +19,10 @@ I'm currently looking for **entry-level roles** in robotics and autonomous syste
   <p><em>Left: Cube | Right: Cylinder</em></p>
 </div>
 
+---
+**© 2026 Apurv Patel** | This work is part of my Master's thesis at University of Stuttgart and Fraunhofer IPA. 
+
+
 ### 🎓 Education
 - **MSc Electrical Engineering - Smart Systems** | University of Stuttgart (2022-Present)
 - **B.Tech Electrical Engineering - Power Electronics** | Pandit Deendayal Energy University (2016-2020)
