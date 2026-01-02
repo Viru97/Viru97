@@ -13,6 +13,12 @@ I'm currently looking for **entry-level roles** in robotics and autonomous syste
 - **Master's Thesis** at [Fraunhofer IPA](https://www.ipa.fraunhofer.de/): Developing digital twin-driven autonomous assembly systems for snap couplings using deep reinforcement learning in NVIDIA Isaac Lab with UR5e manipulator and 6-DOF,12-joints dexterous Inspire hand
 - Building universal grasping frameworks with sim-to-real transfer capabilities
 
+<div align="center">
+  <img src="assets/cube.gif" alt="Grasping Demo" width="400"/>
+  <img src="assets/cylinder.gif" alt="Assembly Demo" width="400"/>
+  <p><em>Left: Dexterous grasping | Right: Snap coupling assembly</em></p>
+</div>
+
 ### 🎓 Education
 - **MSc Electrical Engineering - Smart Systems** | University of Stuttgart (2022-Present)
 - **B.Tech Electrical Engineering - Power Electronics** | Pandit Deendayal Energy University (2016-2020)
