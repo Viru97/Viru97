@@ -1,8 +1,12 @@
 # Hi there, I'm Apurv Patel 👋
 
-## 🤖 Robotics Engineer | Deep Reinforcement Learning | Autonomous Systems
+## 🤖 Robotics ML Engineer | Robot Learning | Isaac Lab | ROS2 | Dexterous Manipulation
 
-I'm a Master's student in Electrical Engineering (Smart Systems) at the University of Stuttgart, passionate about developing intelligent robotic systems that bridge the gap between simulation and real-world applications.
+I am a Robotics ML Engineer based in Stuttgart, Germany, focused on robot learning, dexterous manipulation, simulation, and sim-to-real transfer.
+
+My work combines Deep Reinforcement Learning, NVIDIA Isaac Lab/Isaac Sim, ROS2, PyTorch, MoveIt, computer vision, and industrial robotics. At Fraunhofer IPA, I developed a digital twin-driven DRL pipeline for dexterous pick-and-place using a UR5e manipulator and a 12-joint Inspire Hand, comparing end-to-end DRL with hybrid DRL + IK approaches for faster and more reliable manipulation policy learning.
+
+I am currently available immediately and open to Robotics ML Engineer, AI Research Engineer, Robot Learning Engineer, Robotics Software Engineer, Robotics Simulation Engineer, and Robot Programmer roles across Germany and Europe.
 
 ### 🚀 Career Goals
 
@@ -56,6 +60,15 @@ I'm currently looking for **entry-level roles** in robotics and autonomous syste
 - **"A Time-series Data Generation Tool for Risk Assessment of Robotic Applications"** - ESREL/SRA-E 2025 Conference
 - **"Operational Amplifier Based dc-ac Converter for Domestic Application"** - ICOEI-2020 Conference
 
+## Selected Robotics & AI Projects
+
+| Project | Focus | Tech Stack |
+|---|---|---|
+| Dual-Arm UR5e Teleoperation | ROS2 teleoperation, MoveIt Servo, MediaPipe hand control | ROS2 Humble, MoveIt 2, ros2_control, OpenCV, MediaPipe |
+| SynthData Factory | Synthetic data generation for robotic perception | Isaac Sim, Replicator API, Python, YOLOv8 |
+| Safe Stop RL | Conservative obstacle avoidance with reinforcement learning | Gymnasium, Stable-Baselines3, PPO, Python |
+| ZMP Humanoid Control | Whole-body control and balance for Unitree G1 | MuJoCo, IK, ZMP, Python |
+| DRL Dexterous Manipulation Thesis | Sim-to-real dexterous pick-and-place | Isaac Lab, PyTorch, RSL-RL, UR5e, Inspire Hand |
 ### 🌟 Featured Projects
 
 #### Configurable Time-Series Data Generator (ROS/Gazebo)
