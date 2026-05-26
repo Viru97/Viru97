@@ -10,7 +10,7 @@ I am currently available immediately and open to Robotics ML Engineer, AI Resear
 
 ### 🚀 Career Goals
 
-I'm currently looking for **entry-level roles** in robotics and autonomous systems, with a focus on robotic manipulation, deep reinforcement learning, and simulation-to-real transfer in industrial or research environments.
+I am currently looking for roles in robotics and autonomous systems, with a focus on robotic manipulation, deep reinforcement learning, and simulation-to-real transfer in industrial or research environments.
 
 
 ### 🔭 Current Work
@@ -60,7 +60,7 @@ I'm currently looking for **entry-level roles** in robotics and autonomous syste
 - **"A Time-series Data Generation Tool for Risk Assessment of Robotic Applications"** - ESREL/SRA-E 2025 Conference
 - **"Operational Amplifier Based dc-ac Converter for Domestic Application"** - ICOEI-2020 Conference
 
-## Selected Robotics & AI Projects
+### 🌟 Selected Robotics & AI Projects
 
 | Project | Focus | Tech Stack |
 |---|---|---|
@@ -69,16 +69,7 @@ I'm currently looking for **entry-level roles** in robotics and autonomous syste
 | Safe Stop RL | Conservative obstacle avoidance with reinforcement learning | Gymnasium, Stable-Baselines3, PPO, Python |
 | ZMP Humanoid Control | Whole-body control and balance for Unitree G1 | MuJoCo, IK, ZMP, Python |
 | DRL Dexterous Manipulation Thesis | Sim-to-real dexterous pick-and-place | Isaac Lab, PyTorch, RSL-RL, UR5e, Inspire Hand |
-### 🌟 Featured Projects
 
-#### Configurable Time-Series Data Generator (ROS/Gazebo)
-Comprehensive simulation framework for Franka Panda manipulator with fault injection mechanisms and PyQt5-based control interface for robotic risk assessment
-
-#### Adaptive 3-Finger Gripper Design
-Novel gripper with variable triangle configurations, integrated computer vision pipeline, and physics-based simulation validation
-
-#### Material Behavior Prediction
-Data generation pipeline using UR10 manipulator for graph-based ML models (AdaptiGraph framework)
 
 ### 📫 Get in Touch
 - LinkedIn: [linkedin.com/in/apurv-patel-891475167](https://www.linkedin.com/in/apurv-patel-891475167)
