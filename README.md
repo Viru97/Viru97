@@ -43,6 +43,8 @@ I built a high-fidelity **NVIDIA Isaac Lab** digital twin of a **UR5e robot with
 
 The hybrid approach achieved **100% success at 5 mm placement tolerance within 10–13 hours of training**, while the pure end-to-end baseline reached only partial success after 44+ hours.
 
+One novel contribution was **GraspAtlas**, a grasp planner that computes object-specific optimal grasping points for dexterous grasping and provides structured grasp targets before policy execution.
+
 Key idea:
 
 > **Learning works better when combined with structure, physical priors, and well-designed control interfaces.**
@@ -50,6 +52,16 @@ Key idea:
 ---
 
 ## Thesis Demo
+
+### GraspAtlas Planner
+
+<div align="center">
+  <img src="assets/Cube_grasp_planner.gif" alt="GraspAtlas cube grasp planning demo" width="45%"/>
+  <img src="assets/Cylinder_grasp_planner.gif" alt="GraspAtlas cylinder grasp planning demo" width="45%"/>
+  <p><em>GraspAtlas computes optimal grasping points for dexterous grasping before policy execution</em></p>
+</div>
+
+### Policy Execution
 
 <div align="center">
   <img src="assets/cube_hybrid.gif" alt="Cube Pick-and-Place Demo" width="45%"/>
@@ -63,7 +75,7 @@ Key idea:
 
 | Project | What it demonstrates | Tech Stack |
 |---|---|---|
-| **DRL Dexterous Manipulation Thesis** | Hybrid RL + IK, dexterous grasping, precision placement, sim-to-real transfer | Isaac Lab, PyTorch, RSL-RL, PPO, UR5e, Inspire Hand |
+| **DRL Dexterous Manipulation Thesis** | GraspAtlas grasp planning, hybrid RL + IK, dexterous grasping, precision placement, sim-to-real transfer | Isaac Lab, PyTorch, RSL-RL, PPO, UR5e, Inspire Hand |
 | **Physics-Driven Grasp Validation** | Grasp candidate validation, contact modelling, force-closure reasoning, physics simulation debugging | Newton Physics, MuJoCo, Python, USD assets |
 | **ROS2 Dual-Arm Teleoperation** | Real-time dual-arm teleoperation with hand tracking and safety-aware robot control | ROS2 Humble, MoveIt Servo, OpenCV, MediaPipe, RViz |
 | **SynthData Factory** | Synthetic data generation pipeline for robotic perception and object detection | Isaac Sim, Replicator API, YOLOv8, Python |
